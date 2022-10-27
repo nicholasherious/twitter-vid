@@ -40,7 +40,7 @@ function App() {
           </button>
         </form>
       </div>
-      <p className='read-the-docs'>Submit twitter id to download video</p>
+      <p className='read-the-docs'>Submit link to the tweet with a video</p>
     </div>
   );
 }
