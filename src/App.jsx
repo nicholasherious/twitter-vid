@@ -33,7 +33,7 @@ function App() {
             value={twitterId}
             onChange={(e) => setTwitterId(e.target.value)}
             className='formInput'
-            placeholder='twitter id'
+            placeholder='Twitter Link'
           />
           <button className='formButton' onClick={handleSubmit}>
             Submit
